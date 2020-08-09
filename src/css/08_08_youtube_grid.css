@@ -1,0 +1,26 @@
+.sub-item-leftside {
+    height: 50px;
+    display: flex;
+    flex-direction:row;
+    justify-content : center;
+}
+
+.box-grid {
+    height : 200px;
+    margin : 1px;
+    padding :1px;
+    border : 1px solid blue;
+    background: green;
+}
+
+body{
+    border : 1px dotted blue;
+    margin : 2px;
+    padding : 2px;
+}
+
+header {
+    border: 1px dotted green;
+    margin: 1px;
+    padding: 2px;
+}

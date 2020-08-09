@@ -1,0 +1,1 @@
+Timer.js  simple class componment timer component providing 2 buttons, incrememt and decrement which  increment and decrement the count
